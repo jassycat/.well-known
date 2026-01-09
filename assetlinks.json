@@ -1,0 +1,22 @@
+[
+
+  {
+
+    "relation": ["delegate_permission/common.handle_all_urls"],
+
+    "target": {
+
+      "namespace": "android_app",
+
+      "package_name": "com.gymuzzi.gymPartner",
+
+      "sha256_cert_fingerprints":
+
+        ["2E:1B:F2:36:AB:A2:2A:CE:E0:AF:1F:B3:0F:35:70:A3:03:D0:CB:A7:7F:5D:AB:3F:D0:99:68:CA:1C:BD:A2:9E", "99:15:4E:8E:4B:14:9D:DA:CE:3E:88:D1:B2:A2:4E:12:D3:0E:35:8F:34:BA:C1:71:F8:6D:9C:10:B4:B0:5F:4E"]
+
+    }
+
+  }
+
+]
+ 
